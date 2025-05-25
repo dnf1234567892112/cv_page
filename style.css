@@ -1,0 +1,77 @@
+body {
+  /* background-color: #eaf9fa; */
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+header {
+  text-align: center;
+}
+.avatar {
+  width: 200px;
+  height: 200px;
+}
+.header_title {
+  font-size: 28px;
+}
+.header_subtitle {
+  color: rgb(102, 238, 238);
+}
+
+main {
+  border: 1px solid darkgray;
+  text-align: center;
+}
+.skills ol {
+  list-style: none;
+}
+.separator {
+  width: 50%;
+  height: 3px;
+  background-color: #a4cdf2;
+}
+.video iframe {
+  width: 400px;
+  height: 245px;
+  border: none;
+}
+.hobbies ul {
+  list-style: none;
+}
+.ed_table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.ed_table th,
+.ed_table td {
+  border: 1px solid black;
+  padding: 10px;
+}
+.quote {
+  font-size: 32px;
+}
+.form {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.form_control {
+  width: 100%;
+}
+
+.form_submit {
+  display: block;
+  margin: 0 auto;
+}
+
+.control_text {
+  width: 70%;
+}
+.footer {
+  height: 100px;
+  background-color: #f0eaea;
+  text-align: center;
+}
+.contact_link {
+  color: black;
+  text-decoration: none;
+}
